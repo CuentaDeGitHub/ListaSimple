@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\bin\Debug\NodoFormulario.exe.config
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\bin\Debug\NodoFormulario.exe
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\bin\Debug\NodoFormulario.pdb
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.Form1.resources
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.Properties.Resources.resources
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.exe
+C:\Users\Gerar\source\repos\NodoFormulario\NodoFormulario\obj\Debug\NodoFormulario.pdb
